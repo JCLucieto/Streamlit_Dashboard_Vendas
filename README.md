@@ -26,8 +26,8 @@ Este projeto faz parte dos estudos de Data Science e faz o tratamento e apresent
 - Limpeza dos dados
 - Seleção e agrupamento dos dados
 - Apresentação de gráficos
-- Apresentação dos dados brutos com opções de:
+- Apresentação dos dados brutos com opções de :
   - Seleção de Colunas
   -  Pesquisa com aplicação de Filtros.
-- Gravação dos Resultados em arquivo .CSV
+  - Gravação dos Resultados em arquivo .CSV
 <br><br>
