@@ -21,7 +21,7 @@ Este projeto faz parte dos estudos de Data Science e faz o tratamento e apresent
 # Passos no Desenvolvimento do Projeto
 
 - Obtenção dos dados de vendas através de API utilizando requests
-- Gravação ddos dados em arquivo .json
+- Gravação dos dados em arquivo .json
 - Análise dos dados
 - Limpeza dos dados
 - Seleção e agrupamento dos dados
